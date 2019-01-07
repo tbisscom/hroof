@@ -11,6 +11,7 @@ public class HroofApplicationTests {
 
     @Test
     public void contextLoads() {
+        assert 1 ==1 ;
     }
 
 }
