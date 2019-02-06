@@ -28,4 +28,9 @@ public class Answer {
         this.answer = answer;
         this.correct = correct;
     }
+
+    public Answer(String answer, boolean correct) {
+        this.answer = answer;
+        this.correct = correct;
+    }
 }
